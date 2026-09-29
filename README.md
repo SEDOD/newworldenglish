@@ -28,7 +28,7 @@ Il n’y a pas de backend, de base de données, de framework ou de dépendance �
 ## Arborescence
 
 ```text
-new-world-english-html-css-js/
+new-world-english/
 ├── index.html   # Structure et contenu de la page
 ├── style.css    # Mise en forme, responsive et dark mode
 ├── script.js    # Traduction, interactions et formulaire
